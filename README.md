@@ -42,7 +42,7 @@ Confusion matrix heatmap example:
 
 ## 🛠️ Installation
 1. **Clone this repository**:
-git clone https://github.com/yourusername/face-detection-classifier.git
+https://github.com/parvathykrishna05/face-detection-ml/tree/main
 cd face-detection-classifier
 2. **Install required packages**:
 pip install -r requirements.txt
