@@ -26,7 +26,7 @@ F1-score: 1.000
 
 Confusion matrix heatmap example:
 
-![Confusion Matrix]("C:\Users\Suresh\Desktop\facedetectionml\confusionmatrix.png")
+![Confusion Matrix] (<img width="387" height="393" alt="confusionmatrix" src="https://github.com/user-attachments/assets/40a0798e-cbb9-4bb7-ac99-f84f71ed6dfb" />)
 
 ---
 
